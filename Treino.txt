@@ -7,5 +7,5 @@ linha 6
 linha 7
 linha 8
 linha 9
-linha 10
+linha 10 - testando o erro de merge
 linha 11
