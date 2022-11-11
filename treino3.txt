@@ -1,2 +1,3 @@
 teste 1
 teste 2
+teste de rejeição de push/pull
