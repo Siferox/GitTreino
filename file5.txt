@@ -1,1 +1,1 @@
-Eu estou mudando esta linha na branch main.
+Hello, Git, estou fazendo o teste de merging.

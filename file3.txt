@@ -1,2 +1,2 @@
 This is third file in our Git repository
-colodando mais uma linha. Agora na branch main, estou modificando esta linha.
+colodando mais uma linha, esta linha foi modificada para o teste de merge.
