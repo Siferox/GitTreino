@@ -4,3 +4,9 @@ I'm on my work now, on my lunch time.
 Eu estou, agora, estudando bastante, os comandos do Linux!
 
 Testando os comandos do nano
+
+Replace 1
+Replace 2
+
+Teste
+testeestes
