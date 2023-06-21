@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "I am hungry. Feed me data." >> ~/demandsubuntu.txt | date 1>> ~/demandsubuntu.log | echo "The monster has feeded at" 1>> ~/demandsubuntu.log
