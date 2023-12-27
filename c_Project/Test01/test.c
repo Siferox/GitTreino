@@ -7,8 +7,8 @@ int main()
     return 0;                           
 }
 
-/*
-OBSERVAÇÕES DO PROGRAMA:
+/*OBSERVAÇÕES DO PROGRAMA:
+
 
 1 - O int, ainda não sei a função, mas preciso descobrir; 
 2 - O main(), indica uma função específica do C, mas ainda não sei os detalhes;
