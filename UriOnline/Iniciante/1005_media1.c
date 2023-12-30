@@ -39,11 +39,10 @@ int main()
 
     scanf("%lf %lf", &A, &B);
 
-    MEDIA = ((A*3.5) + (B*7.5))/2;
+    MEDIA = ((A*3.5) + (B*7.5))/11;
 
-    printf("%0.5lf\n", MEDIA);
+    printf("MEDIA = %0.5lf\n", MEDIA);
 
     return 0;
-
 
 }
