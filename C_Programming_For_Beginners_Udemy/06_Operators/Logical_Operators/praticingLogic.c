@@ -7,9 +7,6 @@ int main()
     _Bool b = 1;
     _Bool c;
 
-    c = !a | !b;
-    printf("%d \n", c);
-
     c = a || b;
     printf("%d \n", c);
 
@@ -17,6 +14,9 @@ int main()
     printf("%d \n", c);
 
     c = !a & !b;
+    printf("%d \n", c);
+
+    c = !a | !b;
     printf("%d \n", c);
 
     return 0;
